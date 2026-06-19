@@ -1,0 +1,6 @@
+{
+  "name": "Claims Evidence Review Dashboard",
+  "description": "Multi-modal insurance claim evidence validation cockpit featuring dynamic rule checks and live Gemini evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
